@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\Pitambar_admin\data_structure\.metadata\.plugins\org.eclipse.jdt.core
+1268181077.index
+3027317401.index
+4079421856.index

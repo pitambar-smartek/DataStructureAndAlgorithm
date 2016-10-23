@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;large&apos; in &apos;FindTheLargestAndSmallestElementFromArray.getSmallestElementFromArray(...)&apos; to &apos;samllest&apos;&#x0D;&#x0A;- Original project: &apos;All_Sorting&apos;&#x0D;&#x0A;- Original element: &apos;FindTheLargestAndSmallestElementFromArray.getSmallestElementFromArray(int[]).large&apos;&#x0D;&#x0A;- Renamed element: &apos;large&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;large&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{FindTheLargestAndSmallestElementFromArray.java[FindTheLargestAndSmallestElementFromArray~getSmallestElementFromArray~\[I@large!498!514!502!506!I!0!false" name="samllest" references="true" stamp="1467353399179" version="1.0"/>
+</session>

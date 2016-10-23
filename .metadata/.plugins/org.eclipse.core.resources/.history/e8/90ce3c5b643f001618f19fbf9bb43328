@@ -1,0 +1,9 @@
+
+public class RemovingDuplicateElementFromArray {
+
+	public static void main(String[] args) {
+		int arr[] = { 1, 22, 2, 4, 85, 16, 7, 878, 19, 878, 211, 2, 1 };
+
+	}
+
+}
